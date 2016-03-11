@@ -26,4 +26,8 @@ public class Calculadora {
     public int multiplicar(int uno, int dos) {
         return uno * dos;
     }
+    
+    public int multiplicarAvanzado(int uno, int dos, int tres) {
+        return uno * dos * tres;
+    }
 }
